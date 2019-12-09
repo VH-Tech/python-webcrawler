@@ -98,7 +98,3 @@ print("\nDirectories:")
 
 for d in directories:
     print(d)
-
-print("\nFiles:")
-for f in files:
-    print(f)
