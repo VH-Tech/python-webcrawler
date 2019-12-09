@@ -1,4 +1,4 @@
-<h1>Ways to preventing web scraping:</h1>
+<h1>Ways to prevent web scraping:</h1>
 
 <b>.1. Require a login for access:</b>
     So bots cant download your websites html anonymously.
